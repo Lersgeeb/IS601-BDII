@@ -1,0 +1,1 @@
+sqlldr BD_BICICLETAS/123@XE control='C:\control.ctl' data='C:\carga_datos.csv'
