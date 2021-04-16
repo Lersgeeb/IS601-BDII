@@ -1,0 +1,1 @@
+sqlldr BD_DIETAS_GANADERAS/123@XE control='C:\control_dietaAnimal..ctl' data='C:\carga_datos_dietaAnimal.csv'

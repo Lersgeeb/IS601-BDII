@@ -1,0 +1,6 @@
+ANIMALID, ESPECIE, NOMBRE, PESO, FECHANACIMIENTO, LUGARCODIGO
+A1, mamifero, Caballo, 550, 2020/01/24, Lomo
+A2, mamifero, Caballo, 540, 2021/02/14, Lomo
+A3, mamifero, Vaca, 500, 2020/12/02, Oreja
+A4, mamifero, Cordero, 30, 2021/01/13, Oreja
+A5, mamifero, Cordero, 32, 2020/12/12, Lomo
